@@ -6,7 +6,7 @@ author: 'Alumno de Astro'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
-  tags: ["astro", "bloguear", "aprender en público"]
+tags: ["astro", "bloguear", "aprender en público"]
 ---
 # Mi primera publicacióm en el blog
 
@@ -24,4 +24,4 @@ Publicado el: 2022-07-01
 
 ## próximos pasos
 
-Terminare el tutorial de Astro, y luego seguire añadiendo más publicaciones.  Mira este espacio para más por venir
+Terminare el tutorial de Astro, y luego seguire añadiendo más publicaciones.  Mira este espacio para más por
